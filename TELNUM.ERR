@@ -1,0 +1,10 @@
+#define OK                   0
+#define ERR_NO_MEMORY       -1
+#define ERR_NO_FILE         -2
+#define ERR_OUT_OF_RANGE    -3
+#define ERR_BAD_FILE        -4
+#define ERR_EMPTY_FILE      -5
+#define ERR_NO_SPACE        -6
+#define ERR_BAD_INTERPRETER -7
+#define ERR_NO_REMOVE       -8
+#define ERR_DIR_EXISTS      -9
